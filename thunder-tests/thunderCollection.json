@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "d1920636-2f54-4f77-b546-ad42aa334a22",
+    "colName": "springboot-course",
+    "created": "2023-05-11T22:43:33.609Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "6d113bc9-110b-45b9-a751-febde8a03f9f",
+        "name": "employees",
+        "containerId": "",
+        "created": "2023-05-11T22:44:02.404Z",
+        "sortNum": 10000
+      }
+    ]
+  }
+]
